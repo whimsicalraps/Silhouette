@@ -35,6 +35,8 @@ Find the 2 buttons next to the USB port:
 
 Silhouette will appear as a removable disk drive on your computer. It will be called "RPI-RP2" on windows.
 
+If you don't see a disk drive appear, try pressing the button sequence again, adding a longer pause between releasing the first button and then the second button.
+
 ### Upload the firmware
 
 * Drag-and-drop the the firmware file (eg. `Silhouette_v111.uf2`) onto the removable disk drive that appeared.
