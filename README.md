@@ -5,7 +5,7 @@ Here you'll find firmware updates for Silhouette.
 
 Get the [Latest Firmware](https://github.com/whimsicalraps/Silhouette/releases/latest).
 
-You can view & download historical versions by clicking "Releases" to the right of this text. Each version has notes on the changes made for the given release.
+You can view & download historical versions by viewing [Releases](https://github.com/whimsicalraps/Silhouette/releases). Each version has notes on the changes made for the given release.
 
 ## How to Update
 
