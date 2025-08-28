@@ -3,7 +3,7 @@ Silhouette Eurorack Module Firmware
 
 Here you'll find firmware updates for Silhouette.
 
-Get the (Latest Firmware)[https://github.com/whimsicalraps/Silhouette/releases/latest].
+Get the [Latest Firmware](https://github.com/whimsicalraps/Silhouette/releases/latest).
 
 You can view & download historical versions by clicking "Releases" to the right of this text. Each version has notes on the changes made for the given release.
 
@@ -14,7 +14,7 @@ Keep your Eurorack case powered on throughout this process (you can turn off the
 
 ### Download new firmware file
 
-* Download the (Latest Firmware)[https://github.com/whimsicalraps/Silhouette/releases/latest], or an older version if you need to downgrade.
+* Download the [Latest Firmware](https://github.com/whimsicalraps/Silhouette/releases/latest), or an older version if you need to downgrade.
 The file has a `.uf2` extension.
 Open a file browser and locate this file (likely in your Downloads folder).
 
@@ -28,11 +28,11 @@ Find the 2 buttons next to the USB port
 * Press them both at once (the module will turn off)
 * Release the button nearest the top of the module
 * Then release the button immediately next to the USB port
-Silhouette will appear as a removable disk drive on your computer.
+Silhouette will appear as a removable disk drive on your computer. It will be called "RPI-RP2" on windows.
 
 ### Upload the firmware
 
 Drag-and-drop the the firmware file (eg. `Silhouette_v111.uf2`) onto the removable disk drive that appeared.
 The file will take a few seconds to copy.
 
-Your firmware is now updated!
+Silhouette will restart immediately, and is now running the updated firmware!
