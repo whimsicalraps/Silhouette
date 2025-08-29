@@ -42,6 +42,6 @@ If you don't see a disk drive appear, try pressing the button sequence again, ad
 
 * Drag-and-drop the the firmware file (eg. `Silhouette_v111.uf2`) onto the removable disk drive that appeared
 
-The file will take a few seconds to copy, after which Silhouette will automatically restart.
+The file will take a few seconds to copy, after which Silhouette will automatically restart and you'll see the removeable disk drive on your computer self-eject.
 
 Your firmware is now up to date!
