@@ -28,7 +28,7 @@ Connect this port to your computer with an appropriate cable.
 
 Find the two buttons next to the USB port:
 
-![](images\1and2.png)
+![](images/1and2.png)
 
 * Press and hold them both at the same time, which turns the module off
 * Release the button nearest the top of the module (`1` in the above image)
