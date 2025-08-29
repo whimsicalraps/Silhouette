@@ -8,7 +8,7 @@ You can view & download historical versions by viewing [Releases](https://github
 
 ## How to update
 
-You'll need to access the left edge of the module, so either remove it slightly from the case, or remove the module to the left of Silhouette. You can turn off your Eurorack's power while attaching the USB cable to be extra safe, but we want to keep the module powered throughout the rest of this process.
+You'll need to access the left edge of the module, so either remove it slightly from the case, or remove the module to the left of Silhouette. You can turn off your Eurorack's power while attaching the USB cable to be extra safe, but **we want to keep the module powered via ribbon cable throughout the firmware update process**.
 
 ### Download new firmware file
 
