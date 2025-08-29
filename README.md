@@ -33,7 +33,7 @@ Find the 2 buttons next to the USB port:
 * Release the button nearest the top of the module
 * Then release the button immediately next to the USB port
 
-Silhouette will appear as a removable disk drive on your computer. It will be called "RPI-RP2" on windows.
+Silhouette will appear as a removable disk drive on your computer. It will be called "RPI-RP2".
 
 If you don't see a disk drive appear, try pressing the button sequence again, adding a longer pause between releasing the first button and then the second button.
 
